@@ -1,4 +1,4 @@
-# prograbioinfo-mgm
+# BIOINFORMATICS PROGRAMMING
 This program is a univerity project for: Programación para la Bioinformática.
 
 Command to execute the program: run mainmarta.py [genbank] [query.fasta] [identity] [coverage]
